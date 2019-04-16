@@ -1,3 +1,7 @@
+You will need a csv file with bugs having following features
+Bug ID, Summary, Assignee, Reporter, Component, Description, Comments
+
+
 Required following modules
 
 numpy
