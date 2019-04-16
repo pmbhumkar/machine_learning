@@ -1,0 +1,10 @@
+Required following modules
+
+numpy
+pandas
+scipy
+sklearn
+nltk
+stopwords : dowload with "import nltk; nltk.download('stopwords')
+scikit-plot
+matplotlib
